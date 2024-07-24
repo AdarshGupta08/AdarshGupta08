@@ -10,16 +10,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate **with the needed company's**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AdarshGupta08](https://github.com/AdarshGupta08)
 
 - 💬 Ask me about **Java,web-development,SQL**
 
 - 📫 How to reach me **guptadarshgupta9867@gmail.com**
 
-- 📄 Know about my experiences [by contacting me,and have Face to face dealing](by contacting me,and have Face to face
-dealing)
+- 📄 Know about my experiences by contacting me,and have Face to face dealing
 
 - ⚡ Fun fact **I can Be Your Gym trainer**
 
