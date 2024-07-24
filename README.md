@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
 <h3 align="center">I'm passionate about turning creative ideas into reality through programming. I thrive on overcoming challenges, crafting innovative solutions, and watching my concepts come to life.</h3>
-<img align="right"  alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" >
-
+    <img align="right" alt="coding" width="400"
+        src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI"
+        style="border: 2px solid #f7f7f7; border-radius: 100px;">
+        
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=adarshgupta08&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgupta08" /> 
 </p>
