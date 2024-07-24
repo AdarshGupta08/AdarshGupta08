@@ -7,7 +7,7 @@
 </p>
 
 - 🌍 Based in **Thane, Mumbai, Maharashtra, India.**
-- 🌱 Currently learning **Java**
+- 🌱 Currently learning **New-Concepts**
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/AdarshGupta08)
 - 💬 Ask me about **Java, web development, SQL**
 - 📫 Reach me at **guptadarshgupta9867@gmail.com**
