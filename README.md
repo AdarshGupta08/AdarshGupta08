@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **guptadarshgupta9867@gmail.com**
 
-- 📄 Know about my experiences [by contacting me, and have Face to face dealing](by contacting me, and have Face to face dealing)
+- 📄 Know about my experiences [by contacting me, and have Face to face dealing]..
 
 - ⚡ Fun fact **I can Be Your Gym trainer**
 
